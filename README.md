@@ -2,7 +2,7 @@
 
 A private blockchain ledger built in Python to demonstrate practical cryptographic principles — data integrity, immutability, and non-repudiation — using SHA-256 hashing and ECDSA digital signatures.
 
-Built as a BTech 6th Semester mini-project for a Data Encryption & Network Security course.
+Built as a project for a Data Encryption & Network Security knowledge showcase .
 
 ---
 
